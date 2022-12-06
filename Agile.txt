@@ -1,0 +1,21 @@
+Development methodology : Agile
+Total : 10 requirement
+Divided in to sprints
+
+Sptints are nothing but diving your requirements into smaller and develop and deliver them
+
+Sprint 1 : 2 requirements -- 3 weeks
+R1 : Login to application
+R2 : Transfer money to same bank customers
+Release : Aug 1st
+
+Sprint 2 : 2 requirements -- 3 weeks
+R1 : Add beneficiary of another bank
+R2 : Transfer money to another bank customers
+Release : Sep 1st
+
+Project Management / Test management tools : 
+Jira, QTest, TestLink , QC etc
+
+
+
